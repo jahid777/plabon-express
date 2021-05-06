@@ -47,7 +47,7 @@ const Footer = (showBelow) => {
         <h5 className="footer-text pl-5">
           <small>
             <strong>
-              Copyright © 2020 - 2021. Developed by Answar IT Software
+              © Copyright 2019 - 2020. Developed by Answar IT Software
               {/* Copyright © Continental Courier Service  */}
               {/* {new Date().getFullYear()} */}
             </strong>

@@ -56,13 +56,53 @@ const Navbar = () => {
             {/* </NavLink> */}
             {/* </li> */}
 
-            <li className="nav-item">
+            {/* <li className="nav-item">
               <NavLink
                 className="nav-link nav-text mr-3 mt-2"
                 to="/ServicePage"
               >
                 Service
               </NavLink>
+            </li> */}
+
+            <li class="nav-item dropdown  mr-3 mt-2 active">
+              <NavLink
+                class="nav-link nav-text dropdown-toggle service-main-text"
+                to="/transport"
+                id="navbarDropdownMenuLink"
+                role="button"
+                data-toggle="dropdown"
+                aria-haspopup="true"
+                aria-expanded="false"
+              >
+                Service
+              </NavLink>
+              <div
+                class="dropdown-menu dropDown-box"
+                aria-labelledby="navbarDropdownMenuLink"
+              >
+                <NavLink class="dropdown-item dropDown-text" to="/transport">
+                  Transport
+                </NavLink>
+                <NavLink class="dropdown-item dropDown-text" to="/privateCar">
+                  PrivateCar
+                </NavLink>
+                <NavLink class="dropdown-item dropDown-text" to="/ambulance">
+                  Ambulance
+                </NavLink>
+                <NavLink class="dropdown-item dropDown-text" to="/cargo">
+                  Cargo
+                </NavLink>
+                <NavLink class="dropdown-item dropDown-text" to="/shipping">
+                  Shipping
+                </NavLink>
+                <NavLink class="dropdown-item dropDown-text" to="/excavator">
+                  Excavator
+                </NavLink>
+                <NavLink class="dropdown-item dropDown-text" to="/Bulldozer">
+                  Bulldozer
+                </NavLink>
+              </div>
             </li>
 
             <li className="nav-item">
@@ -78,7 +118,7 @@ const Navbar = () => {
             </li>
 
             <li className="nav-item">
-              <NavLink className="nav-link" to="/track-products">
+              <NavLink className="nav-link" to="/trackProduct">
                 <button className="nav-btn">Track Products</button>
               </NavLink>
             </li>

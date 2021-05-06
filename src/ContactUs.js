@@ -20,25 +20,22 @@ const ContactUs = () => {
         </div>
 
         <div className="col-md-4 pl-5">
-          <h5 className="text-background-head">Corporate Address:</h5>
+          <h5 className="text-background-head">কপোরেট অফিসঃ </h5>
           <p className="background-text">
-            10/3 Arambag (1st Floor) Motijheel, Dhaka-1000.
+            লাহিনী বটতলা কুষ্টিয়া সদর, কুষ্টিয়া।
           </p>
-          <h5 className="text-background-head">Contact No:</h5>{" "}
+          <h5 className="text-background-head">শাখা অফিসঃ </h5>
+          <p className="background-text">
+            পাংশা টেম্পু স্ট্যান্ড পাংশা, রাজবাড়ী।
+          </p>
+          <h5 className="text-background-head">মোবাইল নং-</h5>{" "}
+          <p className="background-text"> ০১৭১১১১৮২৬২, ০১৬৩৪৩৫০০০০</p>
+          <h5 className="text-background-head">মেইলঃ</h5>{" "}
+          <p className="background-text">hello@plabonexpress.com</p>
           <p className="background-text">
             {" "}
-            7194399-400. 7192842-43 7193268-9, 7191214, 719242
+            (বিঃ দ্রঃ আপনার প্রয়োজনে যে কোন সময় আমাদের ফোন করতে পারেন।)
           </p>
-          <h5 className="text-background-head">CustomerCare:</h5>{" "}
-          <p className="background-text">0176 2680005, 0176 2680006</p>
-          <h5 className="text-background-head">
-            Online Shop & Ecommerce Customer Care:
-          </h5>{" "}
-          <p className="background-text"> 09611 113 113</p>
-          <h5 className="text-background-head"> Sales Team:</h5>{" "}
-          <p className="background-text">01762 680404Agency</p>
-          <h5 className="text-background-head"> Affairs:</h5>{" "}
-          <p className="background-text">01762 680009</p>
         </div>
       </main>
     </>

@@ -1,8 +1,8 @@
 .carousel-indicators > li {
   border-radius: 50%;
-  width: 12px;
-  height: 12px;
-  background-color: red;
+  width: 15px;
+  height: 15px;
+  background-color: rgb(0, 0, 0);
   /* opacity: 0.85 !important; */
   font-weight: 800px;
   margin-left: 10px;
