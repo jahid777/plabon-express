@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e57eefbe.chunk.css",
+    "main.js": "/static/js/main.8dc240d5.chunk.js",
+    "main.js.map": "/static/js/main.8dc240d5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1d4eb53e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1d4eb53e.js.map",
+    "static/js/2.054f2b2b.chunk.js": "/static/js/2.054f2b2b.chunk.js",
+    "static/js/2.054f2b2b.chunk.js.map": "/static/js/2.054f2b2b.chunk.js.map",
+    "static/js/3.6e3418b9.chunk.js": "/static/js/3.6e3418b9.chunk.js",
+    "static/js/3.6e3418b9.chunk.js.map": "/static/js/3.6e3418b9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e57eefbe.chunk.css.map": "/static/css/main.e57eefbe.chunk.css.map",
+    "static/js/2.054f2b2b.chunk.js.LICENSE.txt": "/static/js/2.054f2b2b.chunk.js.LICENSE.txt",
+    "static/media/1. Transport-1.d6c24af0.m4v": "/static/media/1. Transport-1.d6c24af0.m4v",
+    "static/media/2. Private Car-1.a1b79a05.m4v": "/static/media/2. Private Car-1.a1b79a05.m4v",
+    "static/media/3. Ambulance-1.793da112.m4v": "/static/media/3. Ambulance-1.793da112.m4v",
+    "static/media/4. Cargo-1.b0599199.m4v": "/static/media/4. Cargo-1.b0599199.m4v",
+    "static/media/C1.4ad8198a.png": "/static/media/C1.4ad8198a.png",
+    "static/media/C10.ab6aac97.png": "/static/media/C10.ab6aac97.png",
+    "static/media/C13.f2e7df4e.png": "/static/media/C13.f2e7df4e.png",
+    "static/media/C15.eb7e5939.png": "/static/media/C15.eb7e5939.png",
+    "static/media/C16.6afca788.png": "/static/media/C16.6afca788.png",
+    "static/media/C7.623d0c80.png": "/static/media/C7.623d0c80.png",
+    "static/media/Plabon Express.984a943d.jpg": "/static/media/Plabon Express.984a943d.jpg",
+    "static/media/aboutbg.dc751285.jpg": "/static/media/aboutbg.dc751285.jpg",
+    "static/media/contact.8be2d332.jpg": "/static/media/contact.8be2d332.jpg",
+    "static/media/slider1.1013eb40.jpg": "/static/media/slider1.1013eb40.jpg",
+    "static/media/slider2.f589f8f2.jpg": "/static/media/slider2.f589f8f2.jpg",
+    "static/media/slider3.380d58c8.jpg": "/static/media/slider3.380d58c8.jpg",
+    "static/media/slider4.fc8e9615.jpg": "/static/media/slider4.fc8e9615.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d4eb53e.js",
+    "static/js/2.054f2b2b.chunk.js",
+    "static/css/main.e57eefbe.chunk.css",
+    "static/js/main.8dc240d5.chunk.js"
+  ]
+}
