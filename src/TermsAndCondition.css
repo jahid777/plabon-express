@@ -1,0 +1,21 @@
+.main-terms {
+  margin-top: 150px;
+  /* color: #8f8888; */
+}
+/* .main-terms-head {
+  animation: Slide_Up 1.4s ease;
+}
+.main-terms-subHead {
+  animation: Slide_Up 2.1s ease;
+}
+.main-terms-text {
+  animation: Slide_Up 2.4s ease;
+} */
+/* @keyframes Slide_Up {
+  0% {
+    transform: translateX(250px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+} */

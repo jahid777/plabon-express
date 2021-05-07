@@ -6,6 +6,7 @@
   background-color: #0ac55e;
   width: 100%;
   align-items: center;
+  position: absolute;
 }
 .footer-btn {
   background-color: #333333;

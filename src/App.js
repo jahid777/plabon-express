@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import Home from "./Home";
 import Footer from "./Footer";
 import AboutUs from "./AboutUs";
-import ServicePage from "./ServicePage";
 import ContactUs from "./ContactUs.js";
 import Transport from "./AllServices/Transport";
 import PrivateCar from "./AllServices/PrivateCar";
@@ -12,7 +11,7 @@ import Cargo from "./AllServices/Cargo";
 import Shipping from "./AllServices/Shipping";
 import Excavator from "./AllServices/Excavator";
 import Bulldozer from "./AllServices/Bulldozer";
-import TrackProduct from "./TrackProduct";
+import TermsAndCondition from "./TermsAndCondition";
 
 function App() {
   return (
@@ -27,9 +26,7 @@ function App() {
         <Route path="/about">
           <AboutUs />
         </Route>
-        <Route path="/servicePage">
-          <ServicePage />
-        </Route>
+
         <Route path="/contact">
           <ContactUs />
         </Route>
@@ -55,8 +52,8 @@ function App() {
           <Bulldozer />
         </Route>
 
-        <Route path="/trackProduct">
-          <TrackProduct />
+        <Route path="/termsAndCondition">
+          <TermsAndCondition />
         </Route>
       </Switch>
       <Footer />

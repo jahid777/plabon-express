@@ -118,8 +118,8 @@ const Navbar = () => {
             </li>
 
             <li className="nav-item">
-              <NavLink className="nav-link" to="/trackProduct">
-                <button className="nav-btn">Track Products</button>
+              <NavLink className="nav-link" to="/termsAndCondition">
+                <button className="nav-btn">Terms & Condition</button>
               </NavLink>
             </li>
           </ul>

@@ -39,7 +39,7 @@ const Ambulance = () => {
               src={video3}
             ></video>
             <br /> <br />
-            <p>
+            <p style={{ textAlign: "justify" }}>
               {" "}
               <b> Business Application: </b> Competitiveness in the global
               marketplace requires speed and agility at every level. Businesses
@@ -54,7 +54,7 @@ const Ambulance = () => {
               software, office applications, internet software, utilities, text
               and graphics editors, communication software.
             </p>
-            <p>
+            <p style={{ textAlign: "justify" }}>
               {" "}
               <b> E-Commerce Solution: </b> AnswarIT provides customized
               E-Commerce solutions for local and international clients. Today
@@ -67,7 +67,7 @@ const Ambulance = () => {
               client’s website and all these are done in a productive
               environment to ensure its client’s success.{" "}
             </p>
-            <p>
+            <p style={{ textAlign: "justify" }}>
               {" "}
               <b> MIS Solution: </b> Are you looking to make the most of your
               company's technology investment? Are you seeking progressive,
@@ -80,7 +80,7 @@ const Ambulance = () => {
               System, Operations Management, Accounting Management, Asset
               Management, Projects Management and Admin portal etc.{" "}
             </p>
-            <p>
+            <p style={{ textAlign: "justify" }}>
               {" "}
               <b> Web Development: </b> In today’s market website development
               plays a vital role for an organization. It is a onetime investment
@@ -93,7 +93,10 @@ const Ambulance = () => {
               provides services across the globe which is within the budget and
               is customer centric.{" "}
             </p>
-            <p> AnswarIT web development focusing areas are:</p>
+            <p style={{ textAlign: "justify" }}>
+              {" "}
+              AnswarIT web development focusing areas are:
+            </p>
             <ul>
               <li> Web Application Development </li>
               <li> Web and Enterprise Portal Development </li>

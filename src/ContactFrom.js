@@ -9,9 +9,9 @@ const ContactFrom = () => {
             <label for="inputState"> Choose a Country </label>
             <select id="inputState" class="form-control">
               <option selected> BANGLADESH </option>
-              <option> USA </option>
+              {/* <option> USA </option>
               <option> CANADA </option>
-              <option> AUSTRALIA </option>
+              <option> AUSTRALIA </option> */}
             </select>
           </div>
 
@@ -50,7 +50,7 @@ const ContactFrom = () => {
           />
         </div>
 
-        <button type="submit" class="btn btn-primary">
+        <button type="submit" class="btn btn-secondary">
           {" "}
           Send Message{" "}
         </button>
