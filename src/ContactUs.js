@@ -14,12 +14,12 @@ const ContactUs = () => {
           <div class="centered">Contact Us</div>
         </div>
       </section>
-      <main className="row mt-5 mb-5 container">
+      <main className="row mt-5 mb-5 container" style={{ margin: "0 auto" }}>
         <div className="col-md-8 pl-5">
           <ContactFrom />
         </div>
 
-        <div className="col-md-4 pl-5">
+        <div className="col-md-4 pl-5 mt-2">
           <h5 className="text-background-head">কপোরেট অফিসঃ </h5>
           <p className="background-text">
             লাহিনী বটতলা কুষ্টিয়া সদর, কুষ্টিয়া।
